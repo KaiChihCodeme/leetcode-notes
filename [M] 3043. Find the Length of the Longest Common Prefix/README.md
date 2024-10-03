@@ -2,4 +2,4 @@
 tag: `string`, `Hashset`
 
 ## HashSet
-Use Set to store the arr1 potential prefixes. Then iterate arr2 to find if prefix in the set, then calculate the max langth.
+Use Set to store the `arr1` potential prefixes. Then iterate `arr2` to find if prefix in the set, then calculate the max langth.
